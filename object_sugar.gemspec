@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform      = Gem::Platform::RUBY
   s.authors       = ["Robert Zotter"]
   s.email         = ["robertzotter@gmail.com"]
-  s.homepage      = "http://github.com/zapient/Object-Sugar"
+  s.homepage      = "http://github.com/zapient/object-sugar"
   s.summary       = %q{Object sweetness}
   s.description   = %q{Object sweetness}
   s.files         = %w(Rakefile object_sugar.gemspec)
